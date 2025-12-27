@@ -49,5 +49,5 @@
 | Язык | `Русский` / `English` |
 | Тема | `Dark Theme` / `Light Theme` |
 
-## Скачать:
+## Скачать готовую сборку с .exe и прочим:
 https://drive.google.com/file/d/1VxRdqQZCBw9530i8CYlWzS_sYWrbXE8s/view?usp=sharing
