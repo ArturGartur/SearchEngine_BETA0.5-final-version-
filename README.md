@@ -48,3 +48,6 @@
 |-------|---------------------------|
 | Язык | `Русский` / `English` |
 | Тема | `Dark Theme` / `Light Theme` |
+
+## Скачать:
+https://drive.google.com/file/d/1VxRdqQZCBw9530i8CYlWzS_sYWrbXE8s/view?usp=sharing
